@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="208" viewBox="0 0 208 208">
+  <g id="Group_28" data-name="Group 28" transform="translate(-803 -509)">
+    <g id="Rectangle_96" data-name="Rectangle 96" transform="translate(803 509)" fill="#fff" stroke="#264f58" stroke-width="3">
+      <rect width="208" height="208" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="205" height="205" rx="3.5" fill="none"/>
+    </g>
+    <text id="_" data-name="+" transform="translate(880 659)" fill="#264f58" font-size="132" font-family="Raleway-Light, Raleway" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>
